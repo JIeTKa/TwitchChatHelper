@@ -1,0 +1,23 @@
+{
+	"name": "twitch-chat-utils",
+	"version": "1.0.0",
+	"description": "Twitch chat helper",
+	"main": "src/twitch.user.js",
+	"scripts": {
+		"test": "echo \"Hello World\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JIeTKa/TwitchChatHelper.git"
+	},
+	"keywords": [
+		"Twitch",
+		"TwitchChat"
+	],
+	"author": "JIeTKa",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/JIeTKa/TwitchChatHelper/issues"
+	},
+	"homepage": "https://github.com/JIeTKa/TwitchChatHelper#readme"
+}
